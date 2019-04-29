@@ -1,0 +1,11 @@
+{
+    "SubnetList-ServiceNow": {
+        "PutRequest": {
+            "Item": {
+                "Subnet-Octet-Mgmt-001": {
+                    "S": "001"
+                }
+            }
+        }
+    }
+}
